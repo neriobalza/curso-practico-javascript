@@ -1,0 +1,12 @@
+{
+  "name": "curso-practico-javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Nerio Balza",
+  "license": "MIT"
+}
